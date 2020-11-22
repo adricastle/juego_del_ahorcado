@@ -1,0 +1,10 @@
+C:\Users\adria\Documents\C#\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\JuegoDelAhorcado.exe.config
+C:\Users\adria\Documents\C#\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\JuegoDelAhorcado.exe
+C:\Users\adria\Documents\C#\JuegoDelAhorcado\JuegoDelAhorcado\bin\Debug\JuegoDelAhorcado.pdb
+C:\Users\adria\Documents\C#\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.csprojAssemblyReference.cache
+C:\Users\adria\Documents\C#\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.Form1.resources
+C:\Users\adria\Documents\C#\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.Properties.Resources.resources
+C:\Users\adria\Documents\C#\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.csproj.GenerateResource.cache
+C:\Users\adria\Documents\C#\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\C#\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.exe
+C:\Users\adria\Documents\C#\JuegoDelAhorcado\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.pdb
